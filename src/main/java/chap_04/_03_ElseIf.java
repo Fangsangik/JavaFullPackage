@@ -1,7 +1,5 @@
 package chap_04;
 
-import javax.print.attribute.standard.OrientationRequested;
-
 public class _03_ElseIf {
     public static void main(String[] args) {
         // 조건문 elseIf
